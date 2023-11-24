@@ -1,0 +1,7 @@
+token=9207db49-8963-46dc-a200-b68dc65c8d54
+deleteOldTelemetryData=true
+deleteObsoleteIndices=true
+deleteOldHistogramData=true
+moveAndPurgeObsoleteIds=true
+histogramPurgeCycleSeconds=86400
+mhtTviAgeThresholdMillis=1209600000
